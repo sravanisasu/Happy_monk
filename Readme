@@ -1,1 +1,1 @@
-Hello
+This is an implementation of a neural network. A feed forward neural network is implemented using Tensorflow. The custom model was defined with three hidden layers and for each layer the mentioned activation function has been applied and at the last layer softmax has been applied. Adam optimiser has been used and CategoricalCrossentropy loss function has been applied.
